@@ -1,1 +1,1 @@
-# ai-xss-detection
+# AI-Based-WAF
