@@ -9,3 +9,5 @@ Nasıl Çalıştırılır?
 4) XAMPP uygulamasında Apache ayarlarında default HTTP portunu 8080 olarak ayarlayıp Apache sunucusunu başlatın.
 5) Komut satırını kullanarak "python proxy_server.py" komutunu kullanarak proxy-server' ı başlatın.
 5) Son olarak proxy_server.py dosyasının bulunduğu dizine machine_learning_output.txt isimli bir text dosyası oluşturun ve içine 1 veya 0 yazın. Eğer içine 1 yazarsanız proxy bunu saldırı olarak algılar ve search fonksiyonunda arattığınız her şeyden sonra response olarak 403 alırsınız. Eğer dosyanın içine 0 yazarsanız proxy müdahale etmez ve dilediğiniz gibi kullanabilirsiniz.
+
+![Bitirme](https://user-images.githubusercontent.com/61901730/236849064-ed56321e-3448-467c-bcb2-294a683b210d.png)
