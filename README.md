@@ -1,4 +1,4 @@
-# AI-Based-WAF---------
+# AI-Based-WAF
 
 ## Nasıl Çalıştırılır?
 
